@@ -30,13 +30,6 @@ Let me know,if you wish to add anything else to this content.
 <br><br>
 
 
- ***If you like the content and wish to support/sponsor it*** :heart:: 
- 
- <a href="https://www.buymeacoffee.com/anushka23g" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a><br> or send me an email at anushkagupta20128@gmail.com
-
-
-
-
 # 🏆 What do I need to prepare for the interviews?
 
 To get your dream company, you should be good in the following while facing an interview:
@@ -167,16 +160,6 @@ write some code in at least some of your interviews. You will be expected to kno
 of detail about your favorite programming language.
 <br><br><br>
 
-
-# 🏆 Projects:
-
-:heavy_check_mark: For examples of project you can check my other repositories [here](https://github.com/anushka23g?tab=repositories) , Will be adding more projects soon!
-<br>
-
-:heavy_check_mark: If you are a beginner and wish to learn Data Structures and Algorithms in a fun way :stuck_out_tongue_closed_eyes: , try working on [this](https://github.com/anushka23g/Learning-Made-Easy) project, It will help you clear a lot of concepts, make you confident about your skills and you'll gain better knowledge of DSA. <br>
-:unicorn: You can also contribute to the project and help the community if you wish to!  
-<br><br>
-
 # 🏆 SOME EXTRA TIPS:
  
 ## :beginner: Coding Practice
@@ -190,13 +173,8 @@ of detail about your favorite programming language.
 📚 [Interview Puzzles](https://www.geeksforgeeks.org/category/puzzles/)
 
 
-DONT FORGET TO CHECKOUT my followup article more better preparation [HERE](https://medium.com/getpieces/snippetizing-your-coding-interviews-4ec4eb2f0d89) - Has more tips and tricks on how I prepared!!
+ Will be soon adding resources for CS Fundamentals as well...
 
-
-Will be soon adding resources for CS Fundamentals as well...
- 
- 
- 
  ***Do star, fork and share the repo to show your support, it would help others too!***   <br>
  <br>
  Let me know your views on the repository or any changes or improvements and if you wish to contribute too at: roopshree.udaiwal@gmail.com or ***[LinkedIn](https://www.linkedin.com/in/roopshree-udaiwal-2831031b5/)***
